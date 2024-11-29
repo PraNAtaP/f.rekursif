@@ -30,7 +30,5 @@ public class CekPrimaRekursif {
         } else {
             System.out.println(n + " bukan bilangan prima.");
         }
-
-        scanner.close();
     }
 }
