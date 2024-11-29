@@ -20,7 +20,5 @@ public class Fibonacci {
             int totalPasangan = jumlahPasangan(bulan);
             System.out.println("Jumlah pasangan marmut pada akhir bulan ke-" + bulan + " adalah: " + totalPasangan);
         }
-
-        scanner.close();
     }
 }
